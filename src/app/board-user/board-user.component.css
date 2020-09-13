@@ -1,0 +1,25 @@
+.container{
+    border-radius: 25px;
+    background-image:url("https://static-assets.pratilipi.com/pratilipi-logo/pratilipi-og.webp");
+    padding: 20px;
+    width: 800px;
+    height: 725px;
+    margin-top: 50px;
+    border:groove;
+    
+
+}
+.teal{
+    color:white ;
+    font-size: 45px;
+    text-align: center;
+}
+.list-group-item{
+    border-radius: 15px;
+    /* background-color:transparent; */
+    opacity: 0.7;
+    border-color: black;
+    border-width: 2px;
+    text-align:left;
+    font-size: 25px;
+}

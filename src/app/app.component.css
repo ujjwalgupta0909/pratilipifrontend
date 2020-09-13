@@ -1,0 +1,8 @@
+.container{
+    width: 100vw;
+    min-height: 8vh;
+    background-image: url('../assets/dell.gif');
+    background-size: 400px 500px;
+}
+
+.navbar { background-color: #d14141  !important; } 
